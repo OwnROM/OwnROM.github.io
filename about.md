@@ -6,7 +6,7 @@ This is OwnROM, a custom Android ROM made by a team of friendly developers from 
 
 To get more information on the project such as the latest news, help, bug reports or feature requests just head over to our [Google + Community](https://plus.google.com/communities/108869588356214314591).
 
-## 5.0.0 ROM Features
+## 5.0.0 ROM features
 
 Coming soon and will be based on the latest version of Android (8.1.0 Oreo).
 

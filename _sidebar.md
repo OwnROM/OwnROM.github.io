@@ -5,5 +5,5 @@
 * [Contact](contact.md)
 * [Join](join.md)
 * [Build Guide](guide.md)
-* [XDA Example Thread](https://github.com/OwnROM/XDA_Example_Thread)
-* [Rom Statistics](https://own-rom.sourceforge.io/romstats/stats.php)
+* [XDA Example Thread](xda.md)
+* [Rom Statistics](stats.md)

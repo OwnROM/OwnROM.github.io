@@ -1,4 +1,4 @@
-# OwnROM Build Guide
+# Build Guide
 
 *Note: This guide is assuming you are running a 64 bit Ubuntu, Debian or Ubuntu / Debian based operating system.*
 

@@ -1,6 +1,6 @@
 # Contact
 
-## Contact Us
+## Contact us
 
 Get in contact with us though one of the following options.
 
